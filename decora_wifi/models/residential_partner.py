@@ -5,7 +5,7 @@
 #
 # This code is released under the terms of the MIT license. See the LICENSE
 # file for more details.
-from homeauto.api_decora.decora_wifi.base_model import BaseModel
+from ..base_model import BaseModel
 
 
 class ResidentialPartner(BaseModel):

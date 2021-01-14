@@ -8,7 +8,7 @@
 
 import json
 import requests
-from homeauto.api_decora.decora_wifi.models.person import Person
+from .models.person import Person
 
 
 class DecoraWiFiSession:
